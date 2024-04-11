@@ -19,9 +19,8 @@ O War Card Game é um aplicativo desenvolvido em Swift que simula o jogo de cart
 - Swift
 
 ## Capturas de Tela
-![Captura de Tela](images/1.png)
-![Captura de Tela](images/2.png)
-
+<img src="images/1.png" alt="Texto Alternativo" width="300">
+<img src="images/2.png" alt="Texto Alternativo" width="300">
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para relatar problemas ou propor novos recursos. Pull requests também são incentivados.
 
